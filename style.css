@@ -1,0 +1,99 @@
+body{
+    background-image: url(adham.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    background-clip: content-box;
+    
+}
+header{
+    width: 100%;
+    height: 20px;
+    display: flex;
+    text-align: center;
+    color: #3a573a;
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    
+}
+img{
+
+    background-size: cover;
+    background-position: 100% 100%;
+    background-clip: border-box;
+    background-position: top left;
+    width: 100%;
+    height: 100%;
+    border: 10px;
+    border-radius: 40px;
+    border-style: double;
+}
+css
+
+body {
+	background-color: #f2f2f2;
+	font-family: Arial, sans-serif;
+
+}
+
+
+.container {
+    opacity: 0.7;
+    float: left;
+	width: 300px;
+	margin: 50px auto;
+	background-color: #f2f2f2;
+	padding: 20px;
+	border-radius: 5px;
+
+}
+
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+
+
+form {
+	display: flex;
+	flex-direction: column;
+
+}
+
+
+label {
+	font-weight: bold;
+	margin-bottom: 5px;
+
+}
+
+
+input[type="text"], input[type="password"] {
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+	margin-bottom: 20px;
+
+}
+
+
+input[type="submit"] {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+
+}
+
+
+input[type="submit"]:hover {
+	background-color: #3e8e41;
+
+}
+
